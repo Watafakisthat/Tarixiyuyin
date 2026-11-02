@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Centuries</string>
+    <string name="app_tagline">Tarixda jang qiling. Uni qayta yozing.</string>
+    <string name="nav_campaigns">Yurishlar</string>
+    <string name="nav_what_if">Agar-chi?</string>
+    <string name="nav_skirmish">Erkin jang</string>
+    <string name="nav_pass_play">Ikki o\'yinchi</string>
+    <string name="nav_chronicle">Solnoma</string>
+    <string name="nav_settings">Sozlamalar</string>
+    <string name="action_start_battle">Jangga kirish</string>
+    <string name="action_end_turn">Yurishni yakunlash</string>
+    <string name="action_undo_move">Orqaga qaytarish</string>
+    <string name="action_confirm_attack">Hujumni tasdiqlash</string>
+    <string name="action_use_ability">Maxsus usul</string>
+    <string name="action_hero_ability">Sarkarda amri</string>
+    <string name="action_sources">Tarixiy manbalar</string>
+    <string name="action_fact_vs_game">Haqiqat va O\'yin</string>
+    <string name="action_resume_autosave">Saqlangan jangni davom ettirish</string>
+    <string name="label_offline_badge">100% Oflayn Tarixiy Taktika</string>
+</resources>

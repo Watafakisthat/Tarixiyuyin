@@ -1,0 +1,6 @@
+{
+  "name": "Centuries",
+  "description": "Offline historical hex-grid turn-based tactics game featuring Central Asian, Middle Eastern, and European campaigns with historical sources and What-If scenarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

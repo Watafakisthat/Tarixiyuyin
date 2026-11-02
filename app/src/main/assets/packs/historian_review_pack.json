@@ -1,0 +1,19 @@
+{
+  "packId": "historian_editable_missions_override",
+  "schemaVersion": 1,
+  "reviewerCredits": [
+    {
+      "region": "Central Asia & Transoxiana (Timurid & Khwarazmian Chronicles)",
+      "status": "Awaiting Academic Sign-off — Primary texts cross-referenced with Sharaf ad-Din Ali Yazdi (Zafarnama), Ibn al-Athir (Al-Kamil fi al-Tarikh), Ata-Malik Juvayni (Tarikh-i Jahangushay), and Rashid al-Din (Jami al-Tawarikh)"
+    },
+    {
+      "region": "Levant & Crusades (Ayyubid & Frankish Sources)",
+      "status": "Awaiting Academic Sign-off — Cross-referenced with Baha ad-Din ibn Shaddad, Imad ad-Din al-Isfahani, and William of Tyre"
+    },
+    {
+      "region": "Anglo-Norman & Hundred Years' War",
+      "status": "Awaiting Academic Sign-off — Cross-referenced with the Anglo-Saxon Chronicle, Bayeux Tapestry, and Gesta Henrici Quinti"
+    }
+  ],
+  "missionTextOverrides": []
+}

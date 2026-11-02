@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "engine": "Centuries Offline Historical Tactics Engine",
+  "bundledPacks": [
+    "core_units_and_heroes",
+    "campaign_timur_rise",
+    "campaign_mongol_khwarazm",
+    "campaign_crusades",
+    "campaign_europe_bonus",
+    "chronicle_silk_road_cities"
+  ],
+  "externalPackFolders": [
+    "packs/custom"
+  ],
+  "futureHooks": {
+    "coinEconomyEnabled": false,
+    "resourcePacksStoreEnabled": false,
+    "offlineDailyChallengeEnabled": false,
+    "achievementsEnabled": false
+  }
+}

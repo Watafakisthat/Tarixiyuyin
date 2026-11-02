@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Centuries</string>
+    <string name="app_tagline">Сражайся в истории. Перепиши её.</string>
+    <string name="nav_campaigns">Кампании</string>
+    <string name="nav_what_if">Что если</string>
+    <string name="nav_skirmish">Схватка</string>
+    <string name="nav_pass_play">На одном экране</string>
+    <string name="nav_chronicle">Летопись</string>
+    <string name="nav_settings">Настройки</string>
+    <string name="action_start_battle">В бой</string>
+    <string name="action_end_turn">Завершить ход</string>
+    <string name="action_undo_move">Отменить ход</string>
+    <string name="action_confirm_attack">Подтвердить атаку</string>
+    <string name="action_use_ability">Особый навык</string>
+    <string name="action_hero_ability">Приказ полководца</string>
+    <string name="action_sources">Исторические источники</string>
+    <string name="action_fact_vs_game">Факты и игра</string>
+    <string name="action_resume_autosave">Продолжить бой</string>
+    <string name="label_offline_badge">100% Офлайн Историческая Тактика</string>
+</resources>
